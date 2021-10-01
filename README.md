@@ -16,7 +16,7 @@ There are 4 files in the project
 - `app.js` Make the page more Dynamic.
 
 ## How the project runs 
-- #### First
+- ### First
     - The project adds a new `section` tag Dynamically in `app.js`
     - then it creats all important tags inside that tag and append them to make the skelaton of the `section` tag.
 - ### Second
